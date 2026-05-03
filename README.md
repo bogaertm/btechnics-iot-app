@@ -26,4 +26,4 @@ Voor vragen of meldingen over de applicatie kan je terecht via info@btechnics.be
 
 ## Btechnics
 
-Btechnics is een eenmanszaak gevestigd in De Pinte, België. Meer informatie via [www.btechnics.be](https://www.btechnics.be).
+Meer informatie via [www.btechnics.be](https://www.btechnics.be).
